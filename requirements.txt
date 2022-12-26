@@ -6,4 +6,4 @@ djangorestframework==3.11.0
 pycodestyle==2.6.0
 requests~=2.23.0
 setuptools==46.4.0
-wheel==0.34.2
+wheel==0.38.1
