@@ -5,5 +5,5 @@ django-cors-headers==3.4.0
 djangorestframework==3.11.0
 pycodestyle==2.6.0
 requests~=2.23.0
-setuptools==46.4.0
+setuptools==65.5.1
 wheel==0.34.2
